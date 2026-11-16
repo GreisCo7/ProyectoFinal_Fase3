@@ -1,5 +1,4 @@
 # Proyecto Final - Fase 3
-
 # PetLife - Sistema de Gestión de Citas Veterinarias
 
 ## Objetivo
@@ -193,7 +192,8 @@ Ejemplo de configuración:
 
 **Evidencia:**
 
-<img width="921" height="214" alt="image" src="https://github.com/user-attachments/assets/b61949e6-b4bd-4af5-a058-146e27420eb9" />
+<img width="698" height="922" alt="image" src="https://github.com/user-attachments/assets/57197301-3808-4a1c-ba0a-a5c1a0a34477" />
+
 
 
 ### Script SQL
